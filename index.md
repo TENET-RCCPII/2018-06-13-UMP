@@ -178,7 +178,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 <p><strong>REGISTRATION</strong>:
-  Please complete the registration form available at https://goo.gl/forms/q3YOkYJ6zAwp95GA2. Only 30 spaces are available.
+  Please complete the registration form available at <a href="https://goo.gl/forms/q3YOkYJ6zAwp95GA2">https://goo.gl/forms/q3YOkYJ6zAwp95GA2</a>. Only 30 spaces are available.
   </p>
 <hr/>
 
