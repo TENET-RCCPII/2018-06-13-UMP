@@ -177,7 +177,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% endif %}
   for more information.
 </p>
-
+<p><strong>REGISTRATION</strong>:
+  Please complete the registration form available at <h ref="https://goo.gl/forms/q3YOkYJ6zAwp95GA2">https://goo.gl/forms/q3YOkYJ6zAwp95GA2</h>. Only 30 spaces are available.
+  </p>
 <hr/>
 
 {% comment %} 
